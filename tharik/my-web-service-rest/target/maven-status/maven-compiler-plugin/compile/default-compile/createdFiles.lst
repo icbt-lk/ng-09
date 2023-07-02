@@ -1,1 +1,3 @@
+org\icbt\my\web\service\rest\StudentResource.class
 org\icbt\my\web\service\rest\MyService.class
+org\icbt\my\web\service\rest\Student.class
